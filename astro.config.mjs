@@ -4,5 +4,5 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react()],
-  base: '/<BASE_DIR>',
+  base: '/june-2025-editioncrafter',
 });
